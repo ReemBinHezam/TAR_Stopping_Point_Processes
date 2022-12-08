@@ -4,8 +4,8 @@ Repository for the code of the paper "Stopping Methods for Technology Assisted R
 ## Content
 Notebooks for the following:
 - Run Point Process
-- Run Point Process for Multiple Runs & Visulaization
-- Baselines vs Point Process Across Multiple Datasets Visualization
+- Run Point Process for Multiple Runs & Visulaisation
+- Baselines vs Point Process Across Multiple Datasets Visualisation
 - Per Topic Visualization
 - T-Test Analysis
 
