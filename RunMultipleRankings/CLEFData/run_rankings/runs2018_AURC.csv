@@ -1,0 +1,11 @@
+UIC/uci_model8.task2, 0.733
+UIC/uic_model7.task2, 0.744
+IMS/ims_unipd_t1500.task2, 0.896
+IMS/ims_unipd_t1000.task2, 0.9
+IMS/ims_unipd_t500.task2, 0.911
+ECNU/ECNU_TASK2_RUN3_COMBINE.task2, 0.687
+ECNU/ECNU_RUN1_TFIDF.task2, 0.67
+ECNU/ECNU_TASK2_RUN1_TFIDF.task2, 0.67
+SHEF/sheffield-feedback.task2, 0.918
+SHEF/sheffield-general_terms.task2, 0.871
+SHEF/sheffield-query_terms.task2, 0.849
