@@ -3,11 +3,11 @@ Repository for the code of the paper "Stopping Methods for Technology Assisted R
 
 ## Content
 Notebooks for the following:
-- Run Point Process
-- Run Point Process for Multiple Runs & Visulaization
-- Baselines vs Point Process Across Multiple Datasets Visualization
-- Per Topic Visualization
-- T-Test Analysis
+- [Run Point Processes](https://github.com/ReemBinHezam/TAR_Stopping_Point_Processes/blob/main/run_TAR_stopping_PointProcesses.ipynb)
+- [Run Point Processes for Multiple Runs & Visulaization](https://github.com/ReemBinHezam/TAR_Stopping_Point_Processes/blob/main/run_multiple_runs.ipynb)
+- [Baselines vs Point Process Across Multiple Datasets Visualization](https://github.com/ReemBinHezam/TAR_Stopping_Point_Processes/blob/main/vis_all_datasets_with_baselines.ipynb)
+- [Per Topic Visualization](https://github.com/ReemBinHezam/TAR_Stopping_Point_Processes/blob/main/vis_per_topic.ipynb)
+- [T-Test Analysis](https://github.com/ReemBinHezam/TAR_Stopping_Point_Processes/blob/main/run_TTest_IPvsCX.ipynb)
 
 ## Data 
 Ranking and Relevance fiels of: 
