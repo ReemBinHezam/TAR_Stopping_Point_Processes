@@ -13,5 +13,7 @@ Notebooks for the following:
 Ranking and Relevance fiels of: 
 * CLEF (2017, 2018, 2019)
 * TREC (TR , Legal)
-* Link to full data files inlcuding TREC TR & Legal: [(download)](https://drive.google.com/file/d/14WAmubvIbDJ2QjWy3YuUtuFndB6OZ2m5/view?usp=sharing) 424MB. 
-    * add them to *data* sub-folder
+* Link to complete datasets ranking inlcuding TREC TR & Legal: [download](https://drive.google.com/file/d/14x2fEPFDmox1_voHtF8QfhmnUyyNnzpP/view?usp=sharing) (~305MB). 
+    * add them to *data/rankings* sub-folder
+* Link to TREC qrels (needs access permission): [TR qrels](https://plg.uwaterloo.ca/~gvcormac/total-recall/2016/qrels/) , [Legal qrels](https://trec.nist.gov/data/legal/10/qrel_leg_int_2010_msg_post.txt). 
+    * add them to data/qrels sub-folder
