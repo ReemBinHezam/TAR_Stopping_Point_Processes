@@ -10,7 +10,7 @@ Notebooks for the following:
 - [T-Test Analysis](https://github.com/ReemBinHezam/TAR_Stopping_Point_Processes/blob/main/run_TTest_IPvsCX.ipynb)
 
 ## Data 
-Ranking and Relevance fiels of: 
+Ranking and Relevance files of: 
 * CLEF (2017, 2018, 2019)
 * TREC (TR , Legal)
 * Link to complete datasets ranking inlcuding TREC TR & Legal: [download](https://drive.google.com/file/d/14x2fEPFDmox1_voHtF8QfhmnUyyNnzpP/view?usp=sharing) (~305MB). 
