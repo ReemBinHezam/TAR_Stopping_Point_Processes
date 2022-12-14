@@ -15,8 +15,14 @@ Ranking and Relevance files of:
 * TREC (TR , Legal)
 * Link to complete datasets ranking inlcuding TREC TR & Legal: [download](https://drive.google.com/file/d/14x2fEPFDmox1_voHtF8QfhmnUyyNnzpP/view?usp=sharing) (~305MB). 
     * add them to *data/rankings* sub-folder
-* Links to CLEF qrels: [CLEF (2017, 2018, 2019)](https://github.com/CLEF-TAR/tar)
+* Links to CLEF qrels for Baselines Comparison: [CLEF (2017, 2018, 2019)](https://github.com/dli1/auto-stop-tar)
+   * merge each dataset topics qrels into one file and add them to sub-folder: *data/qrels* 
+
+* Links to CLEF qrels for for Multiple Runs: [CLEF (2017, 2018)](https://github.com/CLEF-TAR/tar)
+    * for CLEF2017 , add *qrel_abs_test.txt* to sub-folder: */RunMultipleRankings/CLEFData/clef_runs/2017/relevance* 
+    * for CLEF2018 , add *full.test.abs.2018.qrels* to sub-folder: */RunMultipleRankings/CLEFData/clef_runs/2018/relevance*  
+
 * Links to TREC qrels (needs access permission): [TR qrels](https://plg.uwaterloo.ca/~gvcormac/total-recall/2016/qrels/) , [Legal qrels](https://trec.nist.gov/data/legal/10/qrel_leg_int_2010_msg_post.txt). 
-    * add them to data/qrels sub-folder
+    * add them to sub-folder: *data/qrels* 
     * guidlines on how to get access and usage agreements: [TR](https://plg.uwaterloo.ca/~gvcormac/total-recall/2016/guidelines.html) , [Legal](https://trec-legal.umiacs.umd.edu/)
 
